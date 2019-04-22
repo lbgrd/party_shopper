@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://tester:test@localhost:27017/party_shopper",
+  "jwtSecret": "pArtYSecret"
+}
