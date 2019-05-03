@@ -1,7 +1,7 @@
 # Party shopper
 Collaborative shopping list
 
-Full-stack toy project
+Fullstack react project
 
 Guests can view the list in read-only.
 
