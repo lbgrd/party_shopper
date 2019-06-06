@@ -12,7 +12,7 @@ Make with NodeJS, MongoDB, React
 Use docker-compose file for quick database set up
 
 # Screenshots
-## Home
+## Logged user
 ![](https://raw.githubusercontent.com/lbgrd/party-shopper/master/client/public/img/party-shopper-1.png "Home")
-## Edit
+## Home
 ![](https://raw.githubusercontent.com/lbgrd/party-shopper/master/client/public/img/party-shopper-2.png "Edit")
